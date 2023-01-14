@@ -1,0 +1,51 @@
+/** Estilos de pagina */
+* {
+    margin: 15px;
+    box-sizing: border-box;
+  }
+body {
+    background-color: linen;
+    font-family: 'Alexandria';
+    font-size: 22px;
+}
+img {
+    height: 150px;
+    width: auto;
+    float: left;
+}
+p {
+    color: blue;
+    padding: 5px;
+}
+header {
+    background-color: #666;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+h2 {
+    background-color: rgb(179, 179, 179);
+    border: 1px solid black;
+    padding: 5px;
+    font-weight: bold;
+    color: white;
+}
+ul {
+    color: blue;
+    padding: 5px;
+}
+button {
+    background-color: rgb(179, 179, 179);
+    border: 1px solid black;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgb(202, 212, 212);
+}
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
